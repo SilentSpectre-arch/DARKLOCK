@@ -152,6 +152,4 @@ Cybersecurity | Red Team | Linux | Bash
 
 GitHub: [SilentSpectre-arch](https://github.com/SilentSpectre-arch)
 
----
 
-\<p align="center">   \<b>DARKLOCK — Your Files. Our Lock.\</b>   \<br>   \<sub>Educational Ransomware Simulation Project\</sub> \</p>
